@@ -2,6 +2,12 @@
 
 WebSocket proxy server that streams crypto news from Tree of Alpha to the AlfaDAO frontend.
 
+## 🚀 One-Click Deploy to Railway
+
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/github.com/ADOrganization/alfadao-news-server)
+
+**Or manually:** [Deploy from GitHub](https://railway.app/new)
+
 ## Features
 
 - 🌲 Connects to Tree of Alpha WebSocket API
